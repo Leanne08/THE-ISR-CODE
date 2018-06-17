@@ -9,17 +9,17 @@ This is a list for every team in the isr area
   * [2231](https://github.com/OnyxTronix)
   * [2679](https://github.com/Tiger-team-2679)
   * [3075](https://github.com/HadreamTeam)
-  * [3211]
-  * [3339]
+  * 3211
+  * 3339
   * [3388](https://github.com/Flash3388)
-  * [4320]
+  * 4320
   * [4338](https://github.com/wbaisrobotics)
-  * [4416]
+  * 4416
   * [4586](https://github.com/PrimoFRC)
   * [4590](https://github.com/GreenBlitz)
-  * [4661]
+  * 4661
   * [4757](https://github.com/Talos4757)
-  * [5135]
+  * 5135
   * [5554](https://github.com/ManagerOfPoros)
   * [5635](http://example.com)
   * [5747](http://example.com)
