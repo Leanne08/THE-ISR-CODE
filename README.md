@@ -43,7 +43,7 @@ This is a list for every team in the isr area
 
 
 # Contribution
-we are trying our best. If you wish to contribute, a pull request may be applied. I your team is missing, an issue with your team name, number, and a link should be applied.
+we are trying our best. If you wish to contribute, a pull request may be applied. If your team is missing, an issue with your team name, number, and a link should be applied.
 
 ### Todos
 
