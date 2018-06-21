@@ -37,9 +37,9 @@ This is a list for every team in the isr area
   * EverGreen #7112
 
 # C++ Teams!
-  * [1943](http://example.com)
-  * [2630](http://example.com)
-  * [5715](http://example.com)
+  * Neat Team #1943
+  * Thunderbolts #2630
+  * DRC #5715
 
 
 # Contribution
