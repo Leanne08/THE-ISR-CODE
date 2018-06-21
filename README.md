@@ -2,34 +2,39 @@
 
 This is a list for every team in the isr area
 
+# Table of contents
+* [java teams](#java-teams!)
+* [c++ teams](#c++-teams!)
+* [contribution](#contribution)
+* [todos](#todos)
 
 # Java Teams!
 
-  * [2212](https://github.com/Spikes-2212-Programming-Guild)
-  * [2231](https://github.com/OnyxTronix)
-  * [2679](https://github.com/Tiger-team-2679)
-  * [3075](https://github.com/HadreamTeam)
-  * 3211
-  * [3316](https://github.com/Team3316)
-  * 3339
-  * [3388](https://github.com/Flash3388)
-  * 4320
-  * [4338](https://github.com/wbaisrobotics)
-  * 4416
-  * [4586](https://github.com/PrimoFRC)
-  * [4590](https://github.com/GreenBlitz)
-  * 4661
-  * [4757](https://github.com/Talos4757)
-  * 5135
-  * [5554](https://github.com/ManagerOfPoros)
-  * [5635](http://example.com)
-  * [5747](http://example.com)
-  * [5951](http://example.com)
-  * [5987](https://github.com/Galaxia5987)
-  * [5990](http://example.com)
-  * [6230](http://example.com)
-  * [6738](http://example.com)
-  * [7112](http://example.com)
+  * [The spikes #2212](https://github.com/Spikes-2212-Programming-Guild)
+  * [OnyxTronix #2231](https://github.com/OnyxTronix)
+  * [Tiger Team #2679](https://github.com/Tiger-team-2679)
+  * [Ha-Dream Team #3075](https://github.com/HadreamTeam)
+  * The Y Team #3211
+  * [D-Bug #3316](https://github.com/Team3316)
+  * [BumbleB #3339](https://github.com/bumbleb3339/)
+  * [Flash #3388](https://github.com/Flash3388)
+  * The Joker #4320
+  * [Falcons #4338](https://github.com/wbaisrobotics)
+  * Skynet #4416
+  * [PRIMO #4586](https://github.com/PrimoFRC)
+  * [GreenBlitz #4590](https://github.com/GreenBlitz)
+  * The Red Pirates #4661
+  * [Talos #4757](https://github.com/Talos4757)
+  * Black Unicorns #5135
+  * [The Poros #5554](https://github.com/ManagerOfPoros)
+  * [5635]
+  * [Athena #5747](https://github.com/Athena-5747-FRC)
+  * [Makers Assemble #5951](https://github.com/MA5951)
+  * [Galaxia in memory of David Zohar #5987](https://github.com/Galaxia5987)
+  * TRIGON #5990
+  * Team Koi #6230
+  * Excalibur #6738
+  * EverGreen #7112
 
 # C++ Teams!
   * [1943](http://example.com)
@@ -37,16 +42,13 @@ This is a list for every team in the isr area
   * [5715](http://example.com)
 
 
-# Labview Teams!
-### oh wait...
-
-### Don't get mad!
-we are trying our best. if you find a mistake we will be happy to fix it.
+# Contribution
+we are trying our best. If you wish to contribute, a pull request may be applied. I your team is missing, an issue with your team name, number, and a link should be applied.
 
 ### Todos
 
  - Add all teams
- - Add link to every team
+ - Add a link to every team
  - Add description to any team
 
 
