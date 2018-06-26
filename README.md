@@ -1,6 +1,6 @@
 # THE ISR CODE 
 
-This is a list for every team in the isr area
+An awesome list containing links to Israeli FRC team's GitHub accounts.
 
 # Table of contents
 * [Java teams](#java-teams!)
