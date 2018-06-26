@@ -3,10 +3,10 @@
 This is a list for every team in the isr area
 
 # Table of contents
-* [java teams](#java-teams!)
-* [c++ teams](#c++-teams!)
-* [contribution](#contribution)
-* [todos](#todos)
+* [Java teams](#java-teams!)
+* [C++ teams](#c++-teams!)
+* [Contribution](#contribution)
+* [Todos](#todos)
 
 # Java Teams!
 
