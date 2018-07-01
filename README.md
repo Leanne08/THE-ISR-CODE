@@ -1,6 +1,6 @@
 # THE ISR CODE 
 
-An awesome list containing links to Israeli FRC team's GitHub accounts.
+An awesome list containing links to Israeli FRC team's GitHub accounts. This is a ongoing project, there are alot of things to expand in the list and data to be added. To contribute please see the [Contribution section](#contribution)
 
 # Table of contents
 * [Java teams](#java-teams!)
