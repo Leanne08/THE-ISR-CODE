@@ -24,7 +24,6 @@ An awesome list containing links to Israeli FRC team's GitHub accounts. This is 
   * [PRIMO #4586](https://github.com/PrimoFRC)
   * [GreenBlitz #4590](https://github.com/GreenBlitz)
   * The Red Pirates #4661
-  * [Talos #4757](https://github.com/Talos4757)
   * Black Unicorns #5135
   * [The Poros #5554](https://github.com/ManagerOfPoros)
   * Demacia #5635
@@ -40,6 +39,7 @@ An awesome list containing links to Israeli FRC team's GitHub accounts. This is 
   * Neat Team #1943
   * Thunderbolts #2630
   * DRC #5715
+  * [Talos #4757](https://github.com/Talos4757)
 
 
 # Contribution
